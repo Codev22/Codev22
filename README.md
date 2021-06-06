@@ -7,12 +7,6 @@ projectsemailsender@gmail.com
 
 - By Pasha Rafi Achmad
 
-About me
-
-- Student in junior high school 🙂
-- Learn python programming at 11 Years old 😀
-- Always make useless program 🙃
-- Become Engineer
 
 <!---
 Codev22/Codev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
