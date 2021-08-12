@@ -1,6 +1,6 @@
 ![Banners](./assets/banner.png)
 
-Welcome to my profile github 😊
+Welcome to my profile github 😊 chekout my repository to know the projects that I have made☺️
 
 # Skills
 ```py
@@ -15,6 +15,9 @@ Skill = {
     }
 }
 ```
+I usually use the VsCode IDE, because it supports many programming languages ​​including cpp and java 😁
+
+Total visitor 👇👇
 
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
