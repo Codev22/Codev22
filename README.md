@@ -1,4 +1,5 @@
-# About Me
+# About Me! 
+![Envoy_'s GitHub Banner](./assets/banner.png)
 
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
