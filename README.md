@@ -4,7 +4,7 @@ Welcome to my profile github 😊
 
 # Skills
 ```py
-ability = {
+Skill = {
     "Programming" : ["Python", "C++"],
     "Website": ["HTML", "CSS"],
     "Skils_Presentage" : {
