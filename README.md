@@ -20,7 +20,8 @@ I usually use the VsCode IDE, because it supports many programming languages ​
 
 # My Badge
 
-![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![Visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![ProgramingVersion](https://img.shields.io/badge/Python-3.9-Success%20BBC)
 
 ![animation](./assets/codev_animation.gif)
 <!---
