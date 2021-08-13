@@ -7,7 +7,7 @@ Welcome to my profile github 😊 chekout my repository to know the projects tha
 Skill = {
     "Programming" : ["Python", "C++"],
     "Website": ["HTML", "CSS"],
-    "IDE": ["VSCODE", "PYCHARM]
+    "IDE": ["VSCODE", "PYCHARM"],
     "Skils_Presentage" : {
         "Python" : 100,
         "C++" : 56,
