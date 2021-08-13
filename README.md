@@ -7,6 +7,7 @@ Welcome to my profile github 😊 chekout my repository to know the projects tha
 Skill = {
     "Programming" : ["Python", "C++"],
     "Website": ["HTML", "CSS"],
+    "IDE": ["VSCODE", "PYCHARM]
     "Skils_Presentage" : {
         "Python" : 100,
         "C++" : 56,
@@ -17,7 +18,7 @@ Skill = {
 ```
 I usually use the VsCode IDE, because it supports many programming languages ​​including cpp and java 😁
 
-Total visitor 👇👇
+# My Badge
 
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
