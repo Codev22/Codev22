@@ -18,9 +18,13 @@ Skill = {
 ```
 I usually use the VsCode IDE, because it supports many programming languages ​​including cpp and java 😁
 
-# My Badge
+# Statistics
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codev22&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![ProgramingVersion](https://img.shields.io/badge/Python-3.9-success)
+
+# My Badge
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![PyVersion](https://img.shields.io/badge/Python-3.9-success)
 
 ![animation](./assets/codev_animation.gif)
 <!---
