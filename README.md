@@ -20,6 +20,7 @@ I usually use the VsCode IDE, because it supports many programming languages ​
 
 # Statistics
 [![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Codev22&theme=blue-green)](https://github.com/Codev22)
+These are the statistics of the language I use in a project I'm making
 
 # My Badge
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Codev22)
