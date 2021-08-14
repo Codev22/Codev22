@@ -25,8 +25,7 @@ I usually use the VsCode IDE, because it supports many programming languages ​
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Codev22)
 [![PyVersion](https://img.shields.io/badge/Python-3.9-success)](https://github.com/Codev22)
 
+# Profile Visit
+[![Visits Badge](https://badges.pufler.dev/visits/Codev22/Codev22)](https://github.com/Codev22/)
+
 [![animation](./assets/codev_animation.gif)](https://github.com/Codev22)
-<!---
-Codev22/Codev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
